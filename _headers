@@ -1,3 +1,2 @@
-static/3a6eb0790f39ac87c94f3856b2dd2c5d.packed
-  Cache-Control: max-age=0
-  ETag: "1817b9b2fc3d919c5174227179c57494"
+/*
+  Cache-Control: max-age=0, must-revalidate
